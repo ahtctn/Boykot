@@ -11,7 +11,7 @@ import SwiftUI
 struct BoykotApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BoykotView()
             //initial commit
         }
     }
